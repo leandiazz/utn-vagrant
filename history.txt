@@ -1,0 +1,85 @@
+    1  ls
+    2  clera
+    3  clear
+    4  ls
+    5  pwd
+    6  whoami
+    7  pwd]
+    8  pwd
+    9  clea
+   10  clear
+   11  pwd
+   12  man man
+   13  man l
+   14  mal -l
+   15  man -l
+   16  man man
+   17  man ls -l
+   18  man man
+   19  clear
+   20  cleasr
+   21  clear
+   22  cleasr
+   23  clear
+   24  clea
+   25  claser
+   26  clear
+   27  celasr
+   28  cleas
+   29  rcelasr
+   30  cleasr
+   31  caer
+   32  clear
+   33  celar
+   34  claer
+   35  clea
+   36  clear
+   37  cleas
+   38  clea
+   39  celast
+   40  clear
+   41  cela
+   42  celar
+   43  cleas
+   44  clea
+   45  clear
+   46  celar
+   47  clea
+   48  rcela
+   49  clear
+   50  cela
+   51  clear
+   52  ls
+   53  exit
+   54  cd .ssh
+   55  cat id_ed25519.pub 
+   56  sudo cat id_ed25519.pub 
+   57  cd ..
+   58  ssh-keygen -t ed25519
+   59  cd .ssh
+   60  cat id_ed25519.pub 
+   61  cd ..
+   62  ls
+   63  cd repogit
+   64  ls 
+   65  cd ..
+   66  ls
+   67  cd ..
+   68  ls
+   69  cd vagrant/
+   70  ls
+   71  cd repogit
+   72  clear
+   73  ls
+   74  git clone git@github.com:leandiazz/utn-vagrant.git
+   75  ls
+   76  ssh list-keys
+   77  clear
+   78  ls
+   79  git clone git@github.com:leandiazz/utn-vagrant.git
+   80  cd utn-vagrant/
+   81  cls
+   82  clear
+   83  ls
+   84  ls -la
+   85  history > history.txt
